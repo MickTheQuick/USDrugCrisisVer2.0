@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <title>New York</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--[if lte IE 8]><script src="../assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="../assets/css/main.css">
+    <!--[if lte IE 8]><link rel="stylesheet" href="../assets/css/ie8.css" /><![endif]-->
+  </head>
+  <body class="no-sidebar">
+    <div id="page-wrapper">
+      <!-- Header -->
+      <div id="header-wrapper" class="wrapper">
+        <div id="header">
+          <!-- Logo -->
+          <div id="logo">
+            <h1><a href="newyork.html">New York</a></h1>
+          </div>
+          <!-- Nav -->
+          <nav id="nav">
+            <ul>
+              <li class="current"><a href="../home.html">Home</a></li>
+              <li> <a href="#">States Affected</a>
+                <ul>
+                  <li><a href="ohio.html">Ohio</a></li>
+                  <li><a href="newyork.html">New York</a></li>
+                  <li><a href="california.html">California</a></li>
+                  <li><a href="florida.html">Florida</a></li>
+                  <li><a href="massachusets.html">Massachusetts</a></li>
+                  <li><a href="illinois.html">Illinois</a></li>
+                  <li><a href="pennsylvania.html">Pennsylvania</a></li>
+                  <li><a href="michigan.html">Michigan</a></li>
+                  <li><a href="texas.html">Texas</a></li>
+                  <li><a href="northcarolina.html">North Carolina</a></li>
+                </ul>
+              </li>
+              <li><a href="about.html">About Us</a></li>
+              <li><a href="pages/changes.html">changes</a></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+      <!-- Main -->
+      <div class="wrapper style2">
+        <div id="main" class="container">
+          <!-- Content -->
+          <div id="content">
+            <article class="box post">
+              <header class="style1">
+                <h2>The Top Opioid Affected States: New York</h2>
+              </header>
+              <a href="#" class="image featured"> <img src="../images/newyork01.jpg"
+
+                  alt="Picture of New York"> </a> <br>
+              <p><b>Overdose Deaths</b></p>
+              <p>In 2015, the state of New York had a recorded 2,754 overdoses
+                that resulted in death. A significant 79% (2,166) of those
+                deaths were caused by opioid overdoses. </p>
+            </article>
+            <a href="#" class="image featured"> </a>
+            <div class="row 150%"><a href="#" class="image featured"> </a>
+              <div class="4u 12u(mobile)"><a href="#" class="image featured"> </a>
+                <section class="box"><a href="#" class="image featured"></a>
+                  <header>
+                    <h2>New York</h2>
+                  </header>
+                  <a href="#" class="image featured"><img src="../images/newyork02.jpg"
+
+                      alt="Picture of New York City"></a>
+                  <p>In 2016 the city of New York recorded 1,374 overdose deaths
+                    which was 437 more than the previous year.</p>
+                </section>
+              </div>
+              <div class="4u 12u(mobile)">
+                <section class="box">
+                  <header> <br>
+                    <h2>South Bronx</h2>
+                  </header>
+                  <a href="#" class="image featured"><img src="../images/newyork03.jpeg"
+
+                      alt="Picture of South Bronx"></a>
+                  <p>In 2016, the residents of South Bronx had the highest rate
+                    of drug overdoses (37.1 per 100,000 New Yorkers). The rise
+                    in overdose deaths is attributed to the presence of
+                    fentanyl, a synthetic opioid.</p>
+                </section>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Footer -->
+      <div id="footer-wrapper" class="wrapper">
+        <div class="title">References</div>
+        <div class="feature-list">
+          <div class="row">
+            <div class="6u 12u(mobile)">
+              <section>
+                <h3 class="icon fa-check">New York City Health</h3>
+                <p><a href="https://www1.nyc.gov/site/doh/about/press/pr2017/pr048-17.page">Link</a></p>
+              </section>
+            </div>
+            <div class="6u 12u(mobile)">
+              <section>
+                <h3 class="icon fa-check">The Henry J. Kaiser Family Foundation</h3>
+                <p><a href="https://www.kff.org/other/state-indicator/opioid-overdose-deaths/?currentTimeframe=0&amp;sortModel=%7B%22colId%22:%22Opioid%20Overdose%20Deaths%22,%22sort%22:%22asc%22%7D">Link</a></p>
+              </section>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Scripts -->
+    <script src="../assets/js/jquery.min.js"></script>
+    <script src="../assets/js/jquery.dropotron.min.js"></script>
+    <script src="../assets/js/skel.min.js"></script>
+    <script src="../assets/js/skel-viewport.min.js"></script>
+    <script src="../assets/js/util.js"></script>
+    <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+    <script src="../assets/js/main.js"></script>
+    
+  </body>
+</html>

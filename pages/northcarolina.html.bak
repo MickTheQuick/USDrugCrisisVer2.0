@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <title>North Carolina</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--[if lte IE 8]><script src="../assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="../assets/css/main.css">
+    <!--[if lte IE 8]><link rel="stylesheet" href="../assets/css/ie8.css" /><![endif]-->
+  </head>
+  <body class="no-sidebar">
+    <div id="page-wrapper"> <!-- Header -->
+      <div id="header-wrapper" class="wrapper">
+        <div id="header">
+          <!-- Logo -->
+          <div id="logo">
+            <h1><a href="northcarolina.html">North Carolina</a></h1>
+          </div>
+          <!-- Nav -->
+          <nav id="nav">
+            <ul>
+              <li class="current"><a href="../home.html">Home</a></li>
+              <li> <a href="#">States Affected</a>
+                <ul>
+                  <li><a href="ohio.html">Ohio</a></li>
+                  <li><a href="newyork.html">New York</a></li>
+                  <li><a href="california.html">California</a></li>
+                  <li><a href="florida.html">Florida</a></li>
+                  <li><a href="massachusets.html">Massachusetts</a></li>
+                  <li><a href="illinois.html">Illinois</a></li>
+                  <li><a href="pennsylvania.html">Pennsylvania</a></li>
+                  <li><a href="michigan.html">Michigan</a></li>
+                  <li><a href="texas.html">Texas</a></li>
+                  <li><a href="northcarolina.html">North Carolina</a></li>
+                </ul>
+              </li>
+              <li><a href="about.html">About Us</a></li>
+              <li><a href="changes.html">Changes</a></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+      <!-- Main -->
+      <div class="wrapper style2">
+        <div id="main" class="container">
+          <!-- Content -->
+          <div id="content">
+            <article class="box post">
+              <header class="style1">
+                <h2>The Top Opioid Affected States: North Carolina</h2>
+              </header>
+              <a href="#" class="image featured"> <img src="../images/northcarolina1.jpg"
+
+                  alt="Picture of North Carolina"> </a> <br>
+              <p><b>Overdose Deaths</b></p>
+              <p>In 2015, the state of North Carolina had a recorded 1,567
+                overdoses that resulted in death. A wallowing 75% (1,171) of
+                those deaths were caused by opioid overdoses.</p>
+            </article>
+            <a href="#" class="image featured"> </a>
+            <div class="row 150%"><a href="#" class="image featured"> </a>
+              <div class="4u 12u(mobile)"><a href="#" class="image featured"> </a>
+                <section class="box"><a href="#" class="image featured"></a>
+                  <header>
+                    <h2>Jacksonville</h2>
+                  </header>
+                  <a href="#" class="image featured"><img src="../images/northcarolina2.jpg"
+
+                      alt="Picture of Jacksonville"></a>
+                  <p>Jacksonville has a population of around 70,000 and 8.2% of
+                    all people with opioid prescriptions are abusing them. The
+                    high rate og the the drug use could be associated with the
+                    big military presence in the town. The veterans in the town
+                    are 10 times more likely to use the drugs than regular
+                    civilians. </p>
+                </section>
+              </div>
+              <div class="4u 12u(mobile)">
+                <section class="box">
+                  <header> <br>
+                    <h2>Hickory</h2>
+                  </header>
+                  <a href="#" class="image featured"><img src="../images/northcarolina3.jpg"
+
+                      alt="Picture of Hickory"></a>
+                  <p>In Hickory, 9.9% of people with an opioid prescription are
+                    abusing the drug and 46.1% of all prescription drugs are
+                    being abused.</p>
+                </section>
+              </div>
+              <div class="4u 12u(mobile)">
+                <section class="box">
+                  <header> <br>
+                    <h2>Wilmington</h2>
+                  </header>
+                  <a href="#" class="image featured"><img src="../images/northcarolina4.jpg"
+
+                      alt="Picture of Wilmington"></a>
+                  <p>In Wilmington, more thatn 11.6% of people with an opioid
+                    prescription are abusing the drug. On top of that, 54% of
+                    prescriptions in the city are abused.</p>
+                </section>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Footer -->
+      <div id="footer-wrapper" class="wrapper">
+        <div class="title">References</div>
+        <div class="feature-list">
+          <div class="row">
+            <div class="6u 12u(mobile)">
+              <section>
+                <h3 class="icon fa-check">Cheat Sheet</h3>
+                <p><a href="https://www.cheatsheet.com/culture/most-addicted-cities-behind-8-billion-opiate-epidemic.html/?a=viewall">Link</a></p>
+              </section>
+            </div>
+            <div class="6u 12u(mobile)">
+              <section>
+                <h3 class="icon fa-check">The Henry J. Kaiser Family Foundation</h3>
+                <p><a href="https://www.kff.org/other/state-indicator/opioid-overdose-deaths/?currentTimeframe=0&amp;sortModel=%7B%22colId%22:%22Opioid%20Overdose%20Deaths%22,%22sort%22:%22asc%22%7D">Link</a></p>
+              </section>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Scripts -->
+    <script src="../assets/js/jquery.min.js"></script>
+    <script src="../assets/js/jquery.dropotron.min.js"></script>
+    <script src="../assets/js/skel.min.js"></script>
+    <script src="../assets/js/skel-viewport.min.js"></script>
+    <script src="../assets/js/util.js"></script>
+    <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+    <script src="../assets/js/main.js"></script>
+  </body>
+</html>

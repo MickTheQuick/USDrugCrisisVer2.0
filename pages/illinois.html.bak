@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <title>Illinois</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--[if lte IE 8]><script src="../assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="../assets/css/main.css">
+    <!--[if lte IE 8]><link rel="stylesheet" href="../assets/css/ie8.css" /><![endif]-->
+  </head>
+  <body class="no-sidebar">
+    <div id="page-wrapper"> <!-- Header -->
+      <div id="header-wrapper" class="wrapper">
+        <div id="header">
+          <!-- Logo -->
+          <div id="logo">
+            <h1><a href="illinois.html">Illinois</a></h1>
+          </div>
+          <!-- Nav -->
+          <nav id="nav">
+            <ul>
+              <li class="current"><a href="../home.html">Home</a></li>
+              <li> <a href="#">States Affected</a>
+                <ul>
+                  <li><a href="ohio.html">Ohio</a></li>
+                  <li><a href="newyork.html">New York</a></li>
+                  <li><a href="california.html">California</a></li>
+                  <li><a href="florida.html">Florida</a></li>
+                  <li><a href="massachusets.html">Massachusetts</a></li>
+                  <li><a href="illinois.html">Illinois</a></li>
+                  <li><a href="pennsylvania.html">Pennsylvania</a></li>
+                  <li><a href="michigan.html">Michigan</a></li>
+                  <li><a href="texas.html">Texas</a></li>
+                  <li><a href="northcarolina.html">North Carolina</a></li>
+                </ul>
+              </li>
+              <li><a href="about.html">About Us</a></li>
+              <li><a href="changes.html">Changes</a></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+      <!-- Main -->
+      <div class="wrapper style2">
+        <div id="main" class="container">
+          <!-- Content -->
+          <div id="content">
+            <article class="box post">
+              <header class="style1">
+                <h2>The Top Opioid Affected States: Illinois</h2>
+              </header>
+              <a href="#" class="image featured"> <img src="../images/illinois01.jpg"
+
+                  alt="picture of illinois"> </a> <br>
+              <p><b>Overdose Deaths</b></p>
+              <p>In 2015, the state of Illinois had a recorded 1,835 overdoses
+                that resulted in death. A wallowing 75% (1,381) of those deaths
+                were caused by opioid overdoses. </p>
+            </article>
+            <a href="#" class="image featured"> </a>
+            <div class="row 150%"><a href="#" class="image featured"> </a>
+              <div class="4u 12u(mobile)"><a href="#" class="image featured"> </a>
+                <section class="box"><a href="#" class="image featured"></a>
+                  <header>
+                    <h2>Chicago</h2>
+                  </header>
+                  <a href="#" class="image featured"><img src="../images/illinois02.jpg"
+
+                      alt="Picture of Chicago"></a> <br>
+                  <p>Between 2013 and 2015 the city of Chicago saw approximately
+                    1,425 deaths due to heroin (a type of opioid) overdoses
+                    alone which is a large portion in the 2,133 statewide. </p>
+                </section>
+              </div>
+              <div class="4u 12u(mobile)">
+                <section class="box">
+                  <header> <br>
+                    <h2>East St. Louis</h2>
+                  </header>
+                  <a href="#" class="image featured"><img src="../images/illinois03.jpg"
+
+                      alt="Picture of East St. Louis"></a>
+                  <p>In 2015, East St. Louis had a recorded 889 violent crimes
+                    including 19 murders, 42 cases of rape, 146 robberies and
+                    682 aggravated assaults.</p>
+                </section>
+              </div>
+              <div class="4u 12u(mobile)">
+                <section class="box">
+                  <header> <br>
+                    <h2>Rockford</h2>
+                  </header>
+                  <a href="#" class="image featured"><img src="../images/illinois04.jpg"
+
+                      alt="Picture of Rockford"></a>
+                  <p>In 2015 Rockford recorded 2,349 violent crimes. There were
+                    19 murders, 148 cases of rape, 504 robberies and 1,678
+                    aggravated assaults.</p>
+                </section>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Footer -->
+      <div id="footer-wrapper" class="wrapper">
+        <div class="title">References</div>
+        <div class="feature-list">
+          <div class="row">
+            <div class="6u 12u(mobile)">
+              <section>
+                <h3 class="icon fa-check">NBC News</h3>
+                <p><a href="https://www.nbcnews.com/news/us-news/chicago-battles-violent-crime-rise-heroin-epidemic-n649541">Link</a></p>
+              </section>
+            </div>
+            <div class="6u 12u(mobile)">
+              <section>
+                <h3 class="icon fa-check">The Henry J. Kaiser Family Foundation</h3>
+                <p><a href="https://www.kff.org/other/state-indicator/opioid-overdose-deaths/?currentTimeframe=0&amp;sortModel=%7B%22colId%22:%22Opioid%20Overdose%20Deaths%22,%22sort%22:%22asc%22%7D">Link</a></p>
+              </section>
+            </div>
+          </div>
+          <div class="row">
+            <div class="6u 12u(mobile)">
+              <section>
+                <h3 class="icon fa-check">Herald &amp; Review</h3>
+                <p><a href="http://herald-review.com/news/state-and-regional/most-dangerous-cities-in-illinois/collection_3477ce57-e3e2-5d9b-b564-258113eb6171.html#3">Link</a></p>
+              </section>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Scripts -->
+    <script src="../assets/js/jquery.min.js"></script>
+    <script src="../assets/js/jquery.dropotron.min.js"></script>
+    <script src="../assets/js/skel.min.js"></script>
+    <script src="../assets/js/skel-viewport.min.js"></script>
+    <script src="../assets/js/util.js"></script>
+    <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+    <script src="../assets/js/main.js"></script>
+  </body>
+</html>
