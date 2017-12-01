@@ -1,0 +1,9 @@
+#header-wrapper-homepage {
+	background: url("../../images/usdrugs.jpg") center center;
+	background-size: cover;
+}
+#logo-home {
+	font-weight: 900;
+	text-transform: uppercase;
+	color: #000000;
+}
